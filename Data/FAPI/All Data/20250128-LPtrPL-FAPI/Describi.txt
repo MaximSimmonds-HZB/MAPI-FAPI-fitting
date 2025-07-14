@@ -1,0 +1,31 @@
+28.01.2024 LPtrPL FAPI.
+
+BP 710 10 excitation, LP715 emission. 
+
+Heat up PMT for around an hour. Before that, we use the APD for the power dependencies. 
+
+Sample FAPI 6927 Spot 1:. Align the lasdr focus and APD. 
+	1) We measure the power dependence. PMT is turned on for the start of the measurements.  
+
+	2) PMT, measure power dependence. 1h20 (until 1630)
+	On for 4 hours without gain. Left 10 minutes, gain at 0.73mV
+
+	3) PMT, Measure LPtrPL with 10,100,700us, 1kHz for 120 (x3) minutes. Power is 20uW for 10us 1kHz. (180 minutes until 1930)
+
+	4) PMT, measure power dependence. (+All nighter: Measure trPL for hours, see if it relaxes or not). 
+
+
+Sample FAPI 6927 Spot 2:
+	5) PMT, measure power dependence. 1h20 
+
+	6) PMT, Measure LPtrPL with 700us, 1kHz for 120 (x3) minutes. Power is 2uW for 10us 1kHz.
+
+	7) PMT, measure power dependence. +All nighter: Measure trPL for hours, see if it relaxes or not.
+
+Sample FAPI 6927 Spot 3:
+	
+	8) PMT, measure power dependence. 1h20 
+
+	9) PMT, Measure LPtrPL with 700us, 1kHz for 120 (x3) minutes. Power is 2uW for 10us 1kHz.
+
+	10) PMT, measure power dependence. +All nighter: Measure trPL for hours, see if it relaxes or not.
